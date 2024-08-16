@@ -42,7 +42,7 @@ I want to continue focusing on responsive design and how to correctly apply it i
 ### Useful resources
 
 - [StackOverflow](https://stackoverflow.com/) - This helped me with my style questions. I always go back to it when I'm in need of new perspective or guidance.
--[Youtube-Kevin Powell](https://www.youtube.com/@KevinPowell) - This helped me with media query structure and overall use. Reccomend his whole channel to help learn CSS concepts.
+- [Youtube-Kevin Powell](https://www.youtube.com/@KevinPowell) - This helped me with media query structure and overall use. Reccomend his whole channel to help learn CSS concepts.
 
 ## Author
 
